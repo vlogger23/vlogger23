@@ -26,7 +26,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/vlogger23/vlogger23/output/snake.svg" alt="Snake animation" />
-
-###
